@@ -1,0 +1,7 @@
+<!-- res/drawable/degradado_fondo.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#AAAA9F"
+    android:endColor="#E6E3DC"
+    android:angle="90"/>
+</shape>
